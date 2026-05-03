@@ -5,7 +5,7 @@ import { inspectAttr } from "kimi-plugin-inspect-react";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/hydromet/qpf_Forecast_Verification/",
+  base: "/QPF_Forecast_Verification/",
   plugins: [inspectAttr(), react()],
   server: {
     port: 3000,
