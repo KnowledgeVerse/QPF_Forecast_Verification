@@ -22,6 +22,60 @@ import {
   CartesianGrid,
 } from "recharts";
 
+const parseDate = (dateStr: any): string => {
+  if (!dateStr) return "";
+  const str = String(dateStr).trim();
+
+  if (!isNaN(Number(str)) && str !== "") {
+    const date = new Date(Math.round((Number(str) - 25569) * 86400 * 1000));
+    if (!isNaN(date.getTime())) return date.toISOString().split("T")[0];
+  }
+
+  if (/^\d{1,2}[-/]\d{1,2}[-/]\d{4}/.test(str)) {
+    const parts = str.split(/[-/\sT]/);
+    const p1 = Number(parts[0]),
+      p2 = Number(parts[1]);
+    const year = parts[2];
+    let day = parts[0],
+      month = parts[1];
+    if (p1 > 12) {
+      day = parts[0];
+      month = parts[1];
+    } else if (p2 > 12) {
+      month = parts[0];
+      day = parts[1];
+    }
+    return `${year}-${month.padStart(2, "0")}-${day.padStart(2, "0")}`;
+  }
+
+  if (/^\d{1,2}[-/]\d{1,2}[-/]\d{2}$/.test(str)) {
+    const parts = str.split(/[-/\sT]/);
+    const p1 = Number(parts[0]),
+      p2 = Number(parts[1]);
+    let year = Number(parts[2]);
+    year = year < 50 ? 2000 + year : 1900 + year;
+    let day = parts[0],
+      month = parts[1];
+    if (p1 > 12) {
+      day = parts[0];
+      month = parts[1];
+    } else if (p2 > 12) {
+      month = parts[0];
+      day = parts[1];
+    }
+    return `${year}-${month.padStart(2, "0")}-${day.padStart(2, "0")}`;
+  }
+
+  if (/^\d{4}[-/]\d{1,2}[-/]\d{1,2}/.test(str)) {
+    const parts = str.split(/[-/\sT]/);
+    return `${parts[0]}-${parts[1].padStart(2, "0")}-${parts[2].substring(0, 2).padStart(2, "0")}`;
+  }
+
+  const d = new Date(str);
+  if (!isNaN(d.getTime())) return d.toISOString().split("T")[0];
+  return str;
+};
+
 export default function QPFVerificationReport() {
   const { qpfSessions, realisedEntries, bulkImportFromCSV } = useQPFStore();
   const fileInputRef = useRef<HTMLInputElement>(null);
@@ -91,8 +145,9 @@ export default function QPFVerificationReport() {
       };
 
       data.forEach((row) => {
-        const rowDate = getCol(row, "Date", "date");
-        if (!rowDate) return;
+        const rowDateRaw = getCol(row, "Date", "date");
+        if (!rowDateRaw) return;
+        const rowDate = parseDate(rowDateRaw);
         const subBasin = getCol(
           row,
           "Name of Sub-Basin",
@@ -181,8 +236,9 @@ export default function QPFVerificationReport() {
       };
 
       data.forEach((row) => {
-        const rowDate = getCol(row, "Date", "date");
-        if (!rowDate) return;
+        const rowDateRaw = getCol(row, "Date", "date");
+        if (!rowDateRaw) return;
+        const rowDate = parseDate(rowDateRaw);
         const subBasin = getCol(
           row,
           "Name of Sub-Basin",
@@ -242,38 +298,8 @@ export default function QPFVerificationReport() {
 
   const getTimestamp = (dStr: string) => {
     if (!dStr) return 0;
-    if (dStr.includes("-") && dStr.split("-")[0].length === 4) {
-      const [y, m, d] = dStr.split("-").map(Number);
-      return new Date(y, m - 1, d).getTime();
-    }
-    const months = [
-      "Jan",
-      "Feb",
-      "Mar",
-      "Apr",
-      "May",
-      "Jun",
-      "Jul",
-      "Aug",
-      "Sep",
-      "Oct",
-      "Nov",
-      "Dec",
-    ];
-    const parts = dStr.split("-");
-    if (parts.length === 2) {
-      const m = months.findIndex((mon) =>
-        parts[1].toLowerCase().startsWith(mon.toLowerCase()),
-      );
-      if (m !== -1) {
-        return new Date(
-          new Date().getFullYear(),
-          m,
-          parseInt(parts[0], 10),
-        ).getTime();
-      }
-    }
-    const dt = new Date(dStr);
+    const parsed = parseDate(dStr);
+    const dt = new Date(parsed);
     dt.setHours(0, 0, 0, 0);
     return dt.getTime();
   };

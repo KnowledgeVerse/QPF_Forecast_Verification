@@ -15,6 +15,7 @@ import QPFRealisedEntryPage from "@/pages/QPFRealisedEntry";
 import QPFVerificationReport from "@/pages/QPFVerificationReport";
 import QPFAnalyticsCharts from "@/pages/QPFAnalyticsCharts";
 import QPFUploadDataPage from "@/pages/QPFUploadData";
+import QPFContingency from "@/pages/QPFContingency";
 import "./App.css";
 
 function App() {
@@ -56,6 +57,10 @@ function App() {
                   <Route
                     path="/swfc/QPF_Analytics_Charts"
                     element={<QPFAnalyticsCharts />}
+                  />
+                  <Route
+                    path="/swfc/QPF_Contingency"
+                    element={<QPFContingency />}
                   />
                   <Route
                     path="/verification"

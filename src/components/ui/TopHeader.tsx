@@ -67,6 +67,10 @@ const pageConfig: Record<string, { title: string; icon: React.ReactNode }> = {
     title: "QPF Analytics Charts",
     icon: <BarChart3 size={24} className="text-[#f59e0b] animate-bounce" />,
   },
+  "/swfc/QPF_Contingency": {
+    title: "QPF Contingency Analysis",
+    icon: <Grid3X3 size={24} className="text-[#10b981] animate-pulse" />,
+  },
 };
 
 export default function TopHeader() {

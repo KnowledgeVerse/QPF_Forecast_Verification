@@ -103,11 +103,19 @@ const navSections = [
         to: "/swfc/QPF_Verification_Report",
         label: "Verification Report",
         icon: ClipboardCheck,
+        requiresData: true,
       },
       {
         to: "/swfc/QPF_Analytics_Charts",
         label: "Analytics Charts",
         icon: BarChart3,
+        requiresData: true,
+      },
+      {
+        to: "/swfc/QPF_Contingency",
+        label: "Contingency",
+        icon: Grid3X3,
+        requiresData: true,
       },
     ],
   },
@@ -123,7 +131,9 @@ interface SidebarProps {
 }
 
 export default function Sidebar({ collapsed, setCollapsed }: SidebarProps) {
-  const { currentUser, logout, settings, updateSettings } = useForecastStore();
+  const { currentUser, logout, settings, updateSettings, verifications } =
+    useForecastStore();
+  const hasData = verifications && verifications.length > 0;
   const location = useLocation();
   const [mobileOpen, setMobileOpen] = useState(false);
   const [showPalette, setShowPalette] = useState(false);
@@ -259,15 +269,32 @@ export default function Sidebar({ collapsed, setCollapsed }: SidebarProps) {
                 {section.items.map((item) => {
                   const active = isActive(item.to);
                   const Icon = item.icon;
+                  // Check if the item requires data and data is not yet uploaded
+                  const disabled =
+                    "requiresData" in item && item.requiresData && !hasData;
+
                   return (
                     <NavLink
                       key={item.to}
-                      to={item.to}
-                      onClick={() => setMobileOpen(false)}
+                      to={disabled ? "#" : item.to}
+                      onClick={(e) => {
+                        if (disabled) {
+                          e.preventDefault();
+                          return;
+                        }
+                        setMobileOpen(false);
+                      }}
                       className={`flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium transition-all duration-150
-                        ${active ? "bg-[#1a2d4a] text-[#3b82f6] border-l-2 border-[#3b82f6]" : "text-[#94a3b8] hover:bg-[#1a2d4a] hover:text-[#e2e8f0]"}
+                        ${
+                          disabled
+                            ? "opacity-50 cursor-not-allowed text-[#64748b]"
+                            : active
+                              ? "bg-[#1a2d4a] text-[#3b82f6] border-l-2 border-[#3b82f6]"
+                              : "text-[#94a3b8] hover:bg-[#1a2d4a] hover:text-[#e2e8f0]"
+                        }
                         ${collapsed ? "justify-center" : ""}
                       `}
+                      title={disabled ? "Please upload data first" : item.label}
                     >
                       <Icon size={18} className="flex-shrink-0" />
                       {!collapsed && <span>{item.label}</span>}

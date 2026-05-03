@@ -6,6 +6,8 @@ import {
   CheckCircle2,
   BarChart3,
   ClipboardCheck,
+  Grid3X3,
+  Trash2,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -15,13 +17,80 @@ import type { RealisedRainfallEntry, QPFForecastEntry } from "@/types";
 import * as XLSX from "xlsx";
 import { useNavigate } from "react-router-dom";
 
+const parseDate = (dateStr: any): string => {
+  if (!dateStr) return "";
+  const str = String(dateStr).trim();
+
+  // Handle Excel serial numbers (jaise 45000)
+  if (!isNaN(Number(str)) && str !== "") {
+    const date = new Date(Math.round((Number(str) - 25569) * 86400 * 1000));
+    if (!isNaN(date.getTime())) return date.toISOString().split("T")[0];
+  }
+
+  // Handle DD-MM-YYYY or DD/MM/YYYY
+  if (/^\d{1,2}[-/]\d{1,2}[-/]\d{4}/.test(str)) {
+    const parts = str.split(/[-/\sT]/);
+    const p1 = Number(parts[0]);
+    const p2 = Number(parts[1]);
+    const year = parts[2];
+    let day = parts[0],
+      month = parts[1];
+    if (p1 > 12) {
+      day = parts[0];
+      month = parts[1];
+    } else if (p2 > 12) {
+      month = parts[0];
+      day = parts[1];
+    }
+    return `${year}-${month.padStart(2, "0")}-${day.padStart(2, "0")}`;
+  }
+
+  // Handle DD-MM-YY or DD/MM/YY (2-digit year)
+  if (/^\d{1,2}[-/]\d{1,2}[-/]\d{2}$/.test(str)) {
+    const parts = str.split(/[-/\sT]/);
+    const p1 = Number(parts[0]);
+    const p2 = Number(parts[1]);
+    let year = Number(parts[2]);
+    year = year < 50 ? 2000 + year : 1900 + year; // Convert 26 to 2026
+    let day = parts[0],
+      month = parts[1];
+    if (p1 > 12) {
+      day = parts[0];
+      month = parts[1];
+    } else if (p2 > 12) {
+      month = parts[0];
+      day = parts[1];
+    }
+    return `${year}-${month.padStart(2, "0")}-${day.padStart(2, "0")}`;
+  }
+
+  // Handle YYYY-MM-DD
+  if (/^\d{4}[-/]\d{1,2}[-/]\d{1,2}/.test(str)) {
+    const parts = str.split(/[-/\sT]/);
+    return `${parts[0]}-${parts[1].padStart(2, "0")}-${parts[2].substring(0, 2).padStart(2, "0")}`;
+  }
+
+  const d = new Date(str);
+  if (!isNaN(d.getTime())) return d.toISOString().split("T")[0];
+
+  return str;
+};
+
 export default function QPFUploadDataPage() {
-  const { qpfSessions, realisedEntries, bulkImportFromCSV } = useQPFStore();
+  const qpfStore = useQPFStore();
+  const { qpfSessions, realisedEntries, bulkImportFromCSV } = qpfStore;
   const navigate = useNavigate();
 
-  const [isSuccess, setIsSuccess] = useState(false);
+  // Agar data pehle se mojud hai, toh default state success (true) rahegi
+  const [isSuccess, setIsSuccess] = useState(
+    () => qpfSessions.length > 0 || realisedEntries.length > 0,
+  );
   const [isLoading, setIsLoading] = useState(false);
-  const [message, setMessage] = useState("");
+  const [message, setMessage] = useState(() =>
+    qpfSessions.length > 0 || realisedEntries.length > 0
+      ? `System contains ${realisedEntries.length} realised records and ${qpfSessions.length} forecasts.`
+      : "",
+  );
 
   const safeQPF = (val: any) => {
     let s = String(val || "").toLowerCase();
@@ -85,8 +154,9 @@ export default function QPFUploadDataPage() {
         };
 
         data.forEach((row) => {
-          const rowDate = getCol(row, "Date", "date");
-          if (!rowDate) return;
+          const rowDateRaw = getCol(row, "Date", "date");
+          if (!rowDateRaw) return;
+          const rowDate = parseDate(rowDateRaw);
           const subBasin = getCol(
             row,
             "Name of Sub-Basin",
@@ -142,6 +212,21 @@ export default function QPFUploadDataPage() {
     reader.readAsBinaryString(file);
   };
 
+  // Purana data hatane ke liye naya function
+  const handleClearData = () => {
+    if (
+      window.confirm("Are you sure you want to clear all uploaded QPF data?")
+    ) {
+      if (typeof (qpfStore as any).clearAllData === "function") {
+        (qpfStore as any).clearAllData();
+      } else {
+        bulkImportFromCSV([], []); // Store clear karega
+      }
+      setIsSuccess(false);
+      setMessage("");
+    }
+  };
+
   const loadDefaultData = async () => {
     setIsLoading(true);
     try {
@@ -176,8 +261,9 @@ export default function QPFUploadDataPage() {
       };
 
       data.forEach((row) => {
-        const rowDate = getCol(row, "Date", "date");
-        if (!rowDate) return;
+        const rowDateRaw = getCol(row, "Date", "date");
+        if (!rowDateRaw) return;
+        const rowDate = parseDate(rowDateRaw);
         const subBasin = getCol(
           row,
           "Name of Sub-Basin",
@@ -275,28 +361,42 @@ export default function QPFUploadDataPage() {
               <CheckCircle2 size={24} />
               <span className="font-semibold text-lg">{message}</span>
             </div>
-            <div className="flex justify-center gap-4">
+            <div className="flex flex-wrap justify-center gap-4">
               <Button
-                onClick={() => navigate("/QPF_Verification_Report")}
+                onClick={() => navigate("/swfc/QPF_Verification_Report")}
                 className="bg-[#3b82f6] hover:bg-[#2563eb] text-white"
               >
-                <ClipboardCheck size={18} className="mr-2" /> Go to Verification
+                <ClipboardCheck size={18} className="mr-2" /> Verification
                 Report
               </Button>
               <Button
-                onClick={() => navigate("/QPF_Analytics_Charts")}
+                onClick={() => navigate("/swfc/QPF_Analytics_Charts")}
                 className="bg-[#10b981] hover:bg-[#059669] text-white"
               >
-                <BarChart3 size={18} className="mr-2" /> Go to Analytics Charts
+                <BarChart3 size={18} className="mr-2" /> Analytics Charts
+              </Button>
+              <Button
+                onClick={() => navigate("/swfc/QPF_Contingency")}
+                className="bg-[#f59e0b] hover:bg-[#d97706] text-white"
+              >
+                <Grid3X3 size={18} className="mr-2" /> Contingency
               </Button>
             </div>
-            <div className="pt-4 mt-4 border-t border-[#1e3a5f]">
+            <div className="pt-4 mt-4 border-t border-[#1e3a5f] flex justify-center gap-4">
               <Button
                 variant="ghost"
                 onClick={() => setIsSuccess(false)}
                 className="text-[#94a3b8] hover:text-[#e2e8f0]"
               >
                 Upload another file
+              </Button>
+              {/* Naya Clear Data Button */}
+              <Button
+                variant="ghost"
+                onClick={handleClearData}
+                className="text-[#ef4444] hover:text-[#f87171] hover:bg-[#ef4444]/10"
+              >
+                <Trash2 size={16} className="mr-2" /> Clear Data
               </Button>
             </div>
           </div>

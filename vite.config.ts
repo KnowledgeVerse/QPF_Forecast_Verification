@@ -4,8 +4,8 @@ import { defineConfig } from "vite";
 import { inspectAttr } from "kimi-plugin-inspect-react";
 
 // https://vite.dev/config/
-export default defineConfig({
-  base: "/QPF_Forecast_Verification/",
+export default defineConfig(({ command }) => ({
+  base: command === "serve" ? "/" : "/QPF_Forecast_Verification/",
   plugins: [inspectAttr(), react()],
   server: {
     port: 3000,
@@ -15,4 +15,4 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-});
+}));
