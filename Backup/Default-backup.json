@@ -1,0 +1,5755 @@
+{
+  "forecasts": [
+    {
+      "id": "moeigu5jji7p8r6qgjg",
+      "issueDate": "2026-04-18",
+      "dates": [
+        "2026-04-18",
+        "2026-04-19",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24"
+      ],
+      "data": {
+        "2026-04-18": {
+          "NORTH CENTRAL": "DRY",
+          "NORTH EAST": "WS",
+          "NORTH WEST": "FWS",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "ISOL"
+        },
+        "2026-04-19": {
+          "NORTH CENTRAL": "DRY",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "WS",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "SCT",
+          "SOUTH WEST": "WS"
+        },
+        "2026-04-20": {
+          "NORTH CENTRAL": "SCT",
+          "NORTH EAST": "WS",
+          "NORTH WEST": "FWS",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "WS",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-21": {
+          "NORTH CENTRAL": "ISOL",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "WS",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "DRY"
+        },
+        "2026-04-22": {
+          "NORTH CENTRAL": "DRY",
+          "NORTH EAST": "ISOL",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "SCT",
+          "SOUTH WEST": "SCT"
+        },
+        "2026-04-23": {
+          "NORTH CENTRAL": "ISOL",
+          "NORTH EAST": "WS",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "WS",
+          "SOUTH WEST": "ISOL"
+        },
+        "2026-04-24": {
+          "NORTH CENTRAL": "DRY",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "DRY"
+        }
+      },
+      "createdAt": 1776527131303,
+      "updatedAt": 1777135728594
+    },
+    {
+      "id": "moeigu5jexatzhmrqb9",
+      "issueDate": "2026-04-25",
+      "dates": [
+        "2026-04-25",
+        "2026-04-26",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01"
+      ],
+      "data": {
+        "2026-04-25": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "FWS",
+          "SOUTH CENTRAL": "FWS",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-26": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "FWS",
+          "SOUTH CENTRAL": "FWS",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-27": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "FWS",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "WS",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-28": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "WS",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "WS",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-29": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "WS",
+          "NORTH WEST": "WS",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-30": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "WS",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "WS"
+        },
+        "2026-05-01": {
+          "NORTH CENTRAL": "DRY",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "DRY"
+        }
+      },
+      "createdAt": 1777131931303,
+      "updatedAt": 1777140226382
+    },
+    {
+      "id": "moeknc3kbxaxlzfd9",
+      "issueDate": "2026-04-24",
+      "dates": [
+        "2026-04-24",
+        "2026-04-25",
+        "2026-04-26",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30"
+      ],
+      "data": {
+        "2026-04-24": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "SCT",
+          "SOUTH EAST": "SCT",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-25": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "SCT",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-26": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "WS",
+          "NORTH WEST": "FWS",
+          "SOUTH CENTRAL": "FWS",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-27": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "WS",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-28": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "ISOL",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-29": {
+          "NORTH CENTRAL": "ISOL",
+          "NORTH EAST": "ISOL",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "DRY"
+        },
+        "2026-04-30": {
+          "NORTH CENTRAL": "DRY",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "DRY"
+        }
+      },
+      "createdAt": 1777135593728,
+      "updatedAt": 1777135593728
+    },
+    {
+      "id": "moeknuagq5tryvxss",
+      "issueDate": "2026-04-23",
+      "dates": [
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-25",
+        "2026-04-26",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29"
+      ],
+      "data": {
+        "2026-04-23": {
+          "NORTH CENTRAL": "ISOL",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "FWS",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-24": {
+          "NORTH CENTRAL": "ISOL",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "FWS",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-25": {
+          "NORTH CENTRAL": "ISOL",
+          "NORTH EAST": "ISOL",
+          "NORTH WEST": "FWS",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-26": {
+          "NORTH CENTRAL": "DRY",
+          "NORTH EAST": "ISOL",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-27": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "FWS",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-28": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "DRY"
+        },
+        "2026-04-29": {
+          "NORTH CENTRAL": "DRY",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "DRY"
+        }
+      },
+      "createdAt": 1777135617304,
+      "updatedAt": 1777141637206
+    },
+    {
+      "id": "moekoi6pt802ybx7m",
+      "issueDate": "2026-04-22",
+      "dates": [
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-25",
+        "2026-04-26",
+        "2026-04-27",
+        "2026-04-28"
+      ],
+      "data": {
+        "2026-04-22": {
+          "NORTH CENTRAL": "SCT",
+          "NORTH EAST": "ISOL",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "ISOL"
+        },
+        "2026-04-23": {
+          "NORTH CENTRAL": "SCT",
+          "NORTH EAST": "ISOL",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "SCT",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "ISOL"
+        },
+        "2026-04-24": {
+          "NORTH CENTRAL": "SCT",
+          "NORTH EAST": "SCT",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "SCT",
+          "SOUTH WEST": "SCT"
+        },
+        "2026-04-25": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "WS",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "SCT"
+        },
+        "2026-04-26": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "WS",
+          "NORTH WEST": "WS",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "WS"
+        },
+        "2026-04-27": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "WS",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "WS",
+          "SOUTH WEST": "WS"
+        },
+        "2026-04-28": {
+          "NORTH CENTRAL": "DRY",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "DRY"
+        }
+      },
+      "createdAt": 1777135648273,
+      "updatedAt": 1777135648273
+    },
+    {
+      "id": "moekp4kw8pm3gqlrx",
+      "issueDate": "2026-04-21",
+      "dates": [
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-25",
+        "2026-04-26",
+        "2026-04-27"
+      ],
+      "data": {
+        "2026-04-21": {
+          "NORTH CENTRAL": "ISOL",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "SCT",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "ISOL"
+        },
+        "2026-04-22": {
+          "NORTH CENTRAL": "ISOL",
+          "NORTH EAST": "SCT",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "ISOL"
+        },
+        "2026-04-23": {
+          "NORTH CENTRAL": "ISOL",
+          "NORTH EAST": "SCT",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "ISOL"
+        },
+        "2026-04-24": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "SCT",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "ISOL"
+        },
+        "2026-04-25": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "ISOL",
+          "NORTH WEST": "WS",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "WS",
+          "SOUTH WEST": "ISOL"
+        },
+        "2026-04-26": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "WS",
+          "NORTH WEST": "WS",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "WS",
+          "SOUTH WEST": "WS"
+        },
+        "2026-04-27": {
+          "NORTH CENTRAL": "DRY",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "DRY"
+        }
+      },
+      "createdAt": 1777135677296,
+      "updatedAt": 1777135677296
+    },
+    {
+      "id": "moekpkzj0r0mh0ilq",
+      "issueDate": "2026-04-20",
+      "dates": [
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-25",
+        "2026-04-26"
+      ],
+      "data": {
+        "2026-04-20": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "ISOL",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "FWS",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "DRY"
+        },
+        "2026-04-21": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "ISOL",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "FWS",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-22": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "WS",
+          "SOUTH WEST": "ISOL"
+        },
+        "2026-04-23": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "ISOL"
+        },
+        "2026-04-24": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "DRY"
+        },
+        "2026-04-25": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "WS",
+          "NORTH WEST": "WS",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "WS",
+          "SOUTH WEST": "WS"
+        },
+        "2026-04-26": {
+          "NORTH CENTRAL": "DRY",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "DRY"
+        }
+      },
+      "createdAt": 1777135698559,
+      "updatedAt": 1777142430326
+    },
+    {
+      "id": "moekpyjbmbaqyysul",
+      "issueDate": "2026-04-19",
+      "dates": [
+        "2026-04-19",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-25"
+      ],
+      "data": {
+        "2026-04-19": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "SCT",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "SCT",
+          "SOUTH EAST": "SCT",
+          "SOUTH WEST": "WS"
+        },
+        "2026-04-20": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "SCT",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "WS"
+        },
+        "2026-04-21": {
+          "NORTH CENTRAL": "ISOL",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "WS"
+        },
+        "2026-04-22": {
+          "NORTH CENTRAL": "ISOL",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "WS"
+        },
+        "2026-04-23": {
+          "NORTH CENTRAL": "ISOL",
+          "NORTH EAST": "ISOL",
+          "NORTH WEST": "FWS",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "WS"
+        },
+        "2026-04-24": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "WS",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-25": {
+          "NORTH CENTRAL": "DRY",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "DRY"
+        }
+      },
+      "createdAt": 1777135716119,
+      "updatedAt": 1777142451670
+    },
+    {
+      "id": "moekqp94okguae70w",
+      "issueDate": "2026-04-17",
+      "dates": [
+        "2026-04-17",
+        "2026-04-18",
+        "2026-04-19",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23"
+      ],
+      "data": {
+        "2026-04-17": {
+          "NORTH CENTRAL": "SCT",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "SCT",
+          "SOUTH WEST": "DRY"
+        },
+        "2026-04-18": {
+          "NORTH CENTRAL": "SCT",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "SCT",
+          "SOUTH WEST": "SCT"
+        },
+        "2026-04-19": {
+          "NORTH CENTRAL": "SCT",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "FWS",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "SCT"
+        },
+        "2026-04-20": {
+          "NORTH CENTRAL": "SCT",
+          "NORTH EAST": "SCT",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "FWS",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-21": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "SCT",
+          "NORTH WEST": "FWS",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-22": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-23": {
+          "NORTH CENTRAL": "DRY",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "DRY"
+        }
+      },
+      "createdAt": 1777135750744,
+      "updatedAt": 1777135750744
+    },
+    {
+      "id": "moeomyif731aw6a1f",
+      "issueDate": "2026-04-26",
+      "dates": [
+        "2026-04-26",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-02"
+      ],
+      "data": {
+        "2026-04-26": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "WS",
+          "NORTH WEST": "WS",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-27": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "ISOL",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "SCT"
+        },
+        "2026-04-28": {
+          "NORTH CENTRAL": "SCT",
+          "NORTH EAST": "ISOL",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "SCT"
+        },
+        "2026-04-29": {
+          "NORTH CENTRAL": "SCT",
+          "NORTH EAST": "ISOL",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "ISOL"
+        },
+        "2026-04-30": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "SCT",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "FWS",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "ISOL"
+        },
+        "2026-05-01": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "FWS",
+          "SOUTH CENTRAL": "FWS",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-05-02": {
+          "NORTH CENTRAL": "DRY",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "FWS",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "FWS"
+        }
+      },
+      "createdAt": 1777142294583,
+      "updatedAt": 1777142294583
+    },
+    {
+      "id": "moeoo6gd060xlnn4g",
+      "issueDate": "2026-04-27",
+      "dates": [
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-02",
+        "2026-05-03"
+      ],
+      "data": {
+        "2026-04-27": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "ISOL",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "FWS"
+        },
+        "2026-04-28": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "SCT",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "WS"
+        },
+        "2026-04-29": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "SCT",
+          "NORTH WEST": "FWS",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "WS"
+        },
+        "2026-04-30": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "SCT",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "WS"
+        },
+        "2026-05-01": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "SCT",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "DRY"
+        },
+        "2026-05-02": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "WS"
+        },
+        "2026-05-03": {
+          "NORTH CENTRAL": "DRY",
+          "NORTH EAST": "WS",
+          "NORTH WEST": "WS",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "WS"
+        }
+      },
+      "createdAt": 1777142351533,
+      "updatedAt": 1777142353662
+    },
+    {
+      "id": "moeot2cz3ccdb4fhm",
+      "issueDate": "2026-04-28",
+      "dates": [
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-02",
+        "2026-05-03",
+        "2026-05-04"
+      ],
+      "data": {
+        "2026-04-28": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "DRY"
+        },
+        "2026-04-29": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "FWS",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "SCT"
+        },
+        "2026-04-30": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "FWS",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "DRY"
+        },
+        "2026-05-01": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "FWS",
+          "SOUTH CENTRAL": "SCT",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "WS"
+        },
+        "2026-05-02": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "WS",
+          "NORTH WEST": "FWS",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "WS"
+        },
+        "2026-05-03": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "ISOL",
+          "NORTH WEST": "ISOL",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "WS"
+        },
+        "2026-05-04": {
+          "NORTH CENTRAL": "FWS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "WS"
+        }
+      },
+      "createdAt": 1777142579507,
+      "updatedAt": 1777142579507
+    },
+    {
+      "id": "moeqd5jsivg2os478",
+      "issueDate": "2026-04-29",
+      "dates": [
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-02",
+        "2026-05-03",
+        "2026-05-04",
+        "2026-05-05"
+      ],
+      "data": {
+        "2026-04-29": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "DRY"
+        },
+        "2026-04-30": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "ISOL",
+          "SOUTH EAST": "ISOL",
+          "SOUTH WEST": "DRY"
+        },
+        "2026-05-01": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "FWS",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "FWS",
+          "SOUTH EAST": "FWS",
+          "SOUTH WEST": "ISOL"
+        },
+        "2026-05-02": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "WS",
+          "SOUTH WEST": "ISOL"
+        },
+        "2026-05-03": {
+          "NORTH CENTRAL": "WS",
+          "NORTH EAST": "WS",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "WS",
+          "SOUTH WEST": "WS"
+        },
+        "2026-05-04": {
+          "NORTH CENTRAL": "DRY",
+          "NORTH EAST": "DRY",
+          "NORTH WEST": "SCT",
+          "SOUTH CENTRAL": "WS",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "WS"
+        },
+        "2026-05-05": {
+          "NORTH CENTRAL": "SCT",
+          "NORTH EAST": "SCT",
+          "NORTH WEST": "DRY",
+          "SOUTH CENTRAL": "DRY",
+          "SOUTH EAST": "DRY",
+          "SOUTH WEST": "DRY"
+        }
+      },
+      "createdAt": 1777145196376,
+      "updatedAt": 1777145196376
+    }
+  ],
+  "realised": [
+    {
+      "id": "moeigu5jypyvocmi5l",
+      "date": "2026-04-15",
+      "data": {
+        "NORTH CENTRAL": "FWS",
+        "NORTH EAST": "ISOL",
+        "NORTH WEST": "SCT",
+        "SOUTH CENTRAL": "DRY",
+        "SOUTH EAST": "SCT",
+        "SOUTH WEST": "WS"
+      },
+      "createdAt": 1777131931303
+    },
+    {
+      "id": "moeigu5j8ltsuoaul8w",
+      "date": "2026-04-16",
+      "data": {
+        "NORTH CENTRAL": "ISOL",
+        "NORTH EAST": "FWS",
+        "NORTH WEST": "WS",
+        "SOUTH CENTRAL": "WS",
+        "SOUTH EAST": "SCT",
+        "SOUTH WEST": "WS"
+      },
+      "createdAt": 1777131931303
+    },
+    {
+      "id": "moeigu5jxajnx3utd67",
+      "date": "2026-04-17",
+      "data": {
+        "NORTH CENTRAL": "WS",
+        "NORTH EAST": "DRY",
+        "NORTH WEST": "FWS",
+        "SOUTH CENTRAL": "WS",
+        "SOUTH EAST": "DRY",
+        "SOUTH WEST": "ISOL"
+      },
+      "createdAt": 1777131931303
+    },
+    {
+      "id": "moeigu5jiw4kosgqpid",
+      "date": "2026-04-18",
+      "data": {
+        "NORTH CENTRAL": "DRY",
+        "NORTH EAST": "ISOL",
+        "NORTH WEST": "SCT",
+        "SOUTH CENTRAL": "WS",
+        "SOUTH EAST": "FWS",
+        "SOUTH WEST": "ISOL"
+      },
+      "createdAt": 1777131931303
+    },
+    {
+      "id": "moeigu5jstgblftkz9",
+      "date": "2026-04-19",
+      "data": {
+        "NORTH CENTRAL": "WS",
+        "NORTH EAST": "DRY",
+        "NORTH WEST": "WS",
+        "SOUTH CENTRAL": "FWS",
+        "SOUTH EAST": "WS",
+        "SOUTH WEST": "SCT"
+      },
+      "createdAt": 1777131931303
+    },
+    {
+      "id": "moeigu5jn6z1fnnnyin",
+      "date": "2026-04-20",
+      "data": {
+        "NORTH CENTRAL": "FWS",
+        "NORTH EAST": "SCT",
+        "NORTH WEST": "DRY",
+        "SOUTH CENTRAL": "DRY",
+        "SOUTH EAST": "DRY",
+        "SOUTH WEST": "DRY"
+      },
+      "createdAt": 1777131931303
+    },
+    {
+      "id": "moeigu5jprt070y3f2",
+      "date": "2026-04-21",
+      "data": {
+        "NORTH CENTRAL": "WS",
+        "NORTH EAST": "FWS",
+        "NORTH WEST": "DRY",
+        "SOUTH CENTRAL": "WS",
+        "SOUTH EAST": "ISOL",
+        "SOUTH WEST": "WS"
+      },
+      "createdAt": 1777131931303
+    },
+    {
+      "id": "moeigu5jtgj79ficurj",
+      "date": "2026-04-22",
+      "data": {
+        "NORTH CENTRAL": "FWS",
+        "NORTH EAST": "DRY",
+        "NORTH WEST": "ISOL",
+        "SOUTH CENTRAL": "DRY",
+        "SOUTH EAST": "DRY",
+        "SOUTH WEST": "WS"
+      },
+      "createdAt": 1777131931303
+    },
+    {
+      "id": "moeigu5j1x8tzj4myun",
+      "date": "2026-04-23",
+      "data": {
+        "NORTH CENTRAL": "FWS",
+        "NORTH EAST": "DRY",
+        "NORTH WEST": "SCT",
+        "SOUTH CENTRAL": "FWS",
+        "SOUTH EAST": "WS",
+        "SOUTH WEST": "SCT"
+      },
+      "createdAt": 1777131931303
+    },
+    {
+      "id": "moeigu5ja4gg40xcwrm",
+      "date": "2026-04-24",
+      "data": {
+        "NORTH CENTRAL": "SCT",
+        "NORTH EAST": "SCT",
+        "NORTH WEST": "FWS",
+        "SOUTH CENTRAL": "SCT",
+        "SOUTH EAST": "SCT",
+        "SOUTH WEST": "FWS"
+      },
+      "createdAt": 1777131931303
+    },
+    {
+      "id": "moeigu5jhbhvf1b1oh",
+      "date": "2026-04-25",
+      "data": {
+        "NORTH CENTRAL": "FWS",
+        "NORTH EAST": "FWS",
+        "NORTH WEST": "SCT",
+        "SOUTH CENTRAL": "WS",
+        "SOUTH EAST": "FWS",
+        "SOUTH WEST": "SCT"
+      },
+      "createdAt": 1777131931303
+    },
+    {
+      "id": "moeonfr36uhdbq24t",
+      "date": "2026-04-26",
+      "data": {
+        "NORTH CENTRAL": "ISOL",
+        "NORTH EAST": "FWS",
+        "NORTH WEST": "SCT",
+        "SOUTH CENTRAL": "ISOL",
+        "SOUTH EAST": "WS",
+        "SOUTH WEST": "DRY"
+      },
+      "createdAt": 1777142316927
+    },
+    {
+      "id": "moeoojqghpmdzsgvj",
+      "date": "2026-04-27",
+      "data": {
+        "NORTH CENTRAL": "SCT",
+        "NORTH EAST": "FWS",
+        "NORTH WEST": "DRY",
+        "SOUTH CENTRAL": "WS",
+        "SOUTH EAST": "SCT",
+        "SOUTH WEST": "SCT"
+      },
+      "createdAt": 1777142368744
+    },
+    {
+      "id": "moeotn3seudbnt7a8",
+      "date": "2026-04-28",
+      "data": {
+        "NORTH CENTRAL": "FWS",
+        "NORTH EAST": "ISOL",
+        "NORTH WEST": "WS",
+        "SOUTH CENTRAL": "SCT",
+        "SOUTH EAST": "FWS",
+        "SOUTH WEST": "WS"
+      },
+      "createdAt": 1777142606392
+    },
+    {
+      "id": "moeqdrfsn2p6qgbqk",
+      "date": "2026-04-29",
+      "data": {
+        "NORTH CENTRAL": "FWS",
+        "NORTH EAST": "SCT",
+        "NORTH WEST": "FWS",
+        "SOUTH CENTRAL": "WS",
+        "SOUTH EAST": "ISOL",
+        "SOUTH WEST": "SCT"
+      },
+      "createdAt": 1777145224744
+    },
+    {
+      "id": "moeqg1hkzk7uzt9ei",
+      "date": "2026-04-30",
+      "data": {
+        "NORTH CENTRAL": "FWS",
+        "NORTH EAST": "FWS",
+        "NORTH WEST": "SCT",
+        "SOUTH CENTRAL": "SCT",
+        "SOUTH EAST": "SCT",
+        "SOUTH WEST": "ISOL"
+      },
+      "createdAt": 1777145331080
+    }
+  ],
+  "verifications": [
+    {
+      "id": "moexmq5ucm5hhvc9kp9",
+      "realisedDate": "2026-04-17",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 1,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "SCT",
+      "realisedValue": "WS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u5ida9omlvwu",
+      "realisedDate": "2026-04-17",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 1,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uwqy0hipc4u",
+      "realisedDate": "2026-04-17",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 1,
+      "region": "NORTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uw9jkoju2pi",
+      "realisedDate": "2026-04-17",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 1,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5uklj1udrboa",
+      "realisedDate": "2026-04-17",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 1,
+      "region": "SOUTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "DRY",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u3ggwb22lywy",
+      "realisedDate": "2026-04-17",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 1,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uod6ij5gi9o",
+      "realisedDate": "2026-04-18",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 1,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u39hl1c8gv9l",
+      "realisedDate": "2026-04-18",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 1,
+      "region": "NORTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "ISOL",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5ub71zqlot3pu",
+      "realisedDate": "2026-04-18",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 1,
+      "region": "NORTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5um20sjdycell",
+      "realisedDate": "2026-04-18",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 1,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "WS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5ufc3bqe0fgl",
+      "realisedDate": "2026-04-18",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 1,
+      "region": "SOUTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5ut0m9ch7h6wp",
+      "realisedDate": "2026-04-18",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 1,
+      "region": "SOUTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "ISOL",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5usvfcullmsci",
+      "realisedDate": "2026-04-18",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 2,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "SCT",
+      "realisedValue": "DRY",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u0tu47y3zesu",
+      "realisedDate": "2026-04-18",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 2,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uz7mdkmrkcy",
+      "realisedDate": "2026-04-18",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 2,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uqe8v5mb4wy9",
+      "realisedDate": "2026-04-18",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 2,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5ua260hx8835f",
+      "realisedDate": "2026-04-18",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 2,
+      "region": "SOUTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ul1uckcky3ih",
+      "realisedDate": "2026-04-18",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 2,
+      "region": "SOUTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uc096u5l27b8",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 2,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5u6rl0qdmuasr",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 2,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5ujblbazr4hms",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 2,
+      "region": "NORTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "WS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u2d9j2pzd72n",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 2,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uap8hye5tb48",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 2,
+      "region": "SOUTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "WS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5um3pytzy6k1",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 2,
+      "region": "SOUTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u8wifv9xfu4w",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 1,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "WS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u9tobqz1kl5s",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 1,
+      "region": "NORTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "DRY",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5umhk7budpalp",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 1,
+      "region": "NORTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "WS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ua0u1ltq747e",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 1,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5un0p8xdgd6gp",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 1,
+      "region": "SOUTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "WS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ub9tw601zy95",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 1,
+      "region": "SOUTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uwswzek2h5w",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 3,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "SCT",
+      "realisedValue": "WS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5umrwa8w1pxkg",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 3,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u7w7sjpquhfx",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 3,
+      "region": "NORTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "WS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uphsmfxxbw1",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 3,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uxz1j93cedt",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 3,
+      "region": "SOUTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "WS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uj7ap80zt0o8",
+      "realisedDate": "2026-04-19",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 3,
+      "region": "SOUTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uzucnmhm78kh",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 3,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u5acaot8ri05",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 3,
+      "region": "NORTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uqrvrh447xl",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 3,
+      "region": "NORTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5u8z8rh3pmck",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 3,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "DRY",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5u6qz94sw2a3",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 3,
+      "region": "SOUTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "DRY",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5u7bo8v6b0cln",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 3,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uhirsptha1rs",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 1,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u0qd9eafqcaci",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 1,
+      "region": "NORTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u6b2ss3ihtc5",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 1,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uoozmr7mhiwl",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 1,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uys96caenv0j",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 1,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u33yf40nexzg",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 1,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uigjv4e1g3wt",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 2,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5umfl8mzfr2qo",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 2,
+      "region": "NORTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uvn6kirn3cal",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 2,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "DRY",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uanijc0pti0h",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 2,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "DRY",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u252sozx8lj9j",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 2,
+      "region": "SOUTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uts38wzzrz7m",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 2,
+      "region": "SOUTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "DRY",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5ugwmu3j88my7",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 4,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u1r9ttho4nv8",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 4,
+      "region": "NORTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u2fc5rf9p35i",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 4,
+      "region": "NORTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "DRY",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uv0ct7qsq8ye",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 4,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5ux5i172kz4o",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 4,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uajdbhdewxwp",
+      "realisedDate": "2026-04-20",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 4,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uubhvcqmw19j",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 4,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uz1s89xvggl",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 4,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uy135g66rzfq",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 4,
+      "region": "NORTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "DRY",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5u2345bwebzop",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 4,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5u4b6y8yb7lf6",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 4,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "ISOL",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5udsnk09rv6bh",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 4,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5u78vywrenw7s",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 1,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5u0wmyy4eecvo",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 1,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5ut5tocujvotp",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 1,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "DRY",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uize6gmyc64p",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 1,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "SCT",
+      "realisedValue": "WS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5urva73qgk4el",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 1,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "ISOL",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u7bzvp37wd1c",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 1,
+      "region": "SOUTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5ush46p8yny49",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 2,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "WS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uqtr7bukdbbl",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 2,
+      "region": "NORTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ujoema0qywxb",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 2,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uit96w6rin4",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 2,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "WS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uasapwh8n04v",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 2,
+      "region": "SOUTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "ISOL",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uuy27wqk3ib",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 2,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "WS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u5hcnr7vhve",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 3,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5urk8noi6mnoa",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 3,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uss5hfp5bsd",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 3,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "DRY",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5usxyfm458el",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 3,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5ubh1gexuunem",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 3,
+      "region": "SOUTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "ISOL",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u9l20xgc3oo",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 3,
+      "region": "SOUTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "WS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5utdous68ms08",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 5,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "WS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u3y4n7rxa48y",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 5,
+      "region": "NORTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u43we0wifv1x",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 5,
+      "region": "NORTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uagkudwdur9",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 5,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5uw0foag0dc5",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 5,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uz8q9wu66xs",
+      "realisedDate": "2026-04-21",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 5,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "WS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u8kq8n3tck3q",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 5,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uce7tj0onwxm",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 5,
+      "region": "NORTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "DRY",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uvjgslo5c1t",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 5,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ua560faqnm2e",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 5,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5ua6v4vrggze",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 5,
+      "region": "SOUTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "DRY",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uzxze1uuiy1",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 5,
+      "region": "SOUTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "WS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u67fiaxmigh",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 1,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ury8a5h2x4g8",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 1,
+      "region": "NORTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "DRY",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uyeo2fgyxe",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 1,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "ISOL",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uv2igb0rcbfi",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 1,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "DRY",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uq51qahldmta",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 1,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "DRY",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ug240iwxv15i",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 1,
+      "region": "SOUTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5u519r9d0q9m",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 2,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ufezszxq41yk",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 2,
+      "region": "NORTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "DRY",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u5stwof47lnb",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 2,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "ISOL",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5ut1fvm7mcuvo",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 2,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "DRY",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uoi5xvoqsz1",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 2,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "DRY",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ugh5my9468ds",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 2,
+      "region": "SOUTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5utqdllh2v3dl",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 3,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u3goamciiv5l",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 3,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5u2bjbcyujs7f",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 3,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "ISOL",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uizhes2mt87",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 3,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "DRY",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5ulwx4ddq1bw",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 3,
+      "region": "SOUTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "DRY",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5ue41a8xjogmq",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 3,
+      "region": "SOUTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5up28ezcl102b",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 4,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u8y8l0k4bwxf",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 4,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5ujn8il8hr32",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 4,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "ISOL",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uz9ihir2z4ba",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 4,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uwkwfk0j27p",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 4,
+      "region": "SOUTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uirto6u5stj",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 4,
+      "region": "SOUTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "WS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uv07wrccl8ro",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 6,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uza0mc3f9lv",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 6,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uev31hog9bl8",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 6,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5unlaekyn44eq",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 6,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uh7029kdcm3t",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 6,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5undfgs6f59j",
+      "realisedDate": "2026-04-22",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 6,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "WS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uf762mfmodfb",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 6,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u7b4cs9tkve8",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 6,
+      "region": "NORTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "DRY",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5ux1vehyly44d",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 6,
+      "region": "NORTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u47xm5feqmkj",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 6,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5u919iu20ya7a",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 6,
+      "region": "SOUTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "WS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u2mf8fly3z74",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 6,
+      "region": "SOUTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uqj6ffk8j9s",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 1,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5urvgvmch0vco",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 1,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uuahh50lddb",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 1,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5utonk17x8p9d",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 1,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5un7vmrsfznjb",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 1,
+      "region": "SOUTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "WS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u5p4uv5bmfm6",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 1,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uwsaok0y3o0q",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 2,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u7w20wmt5zk",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 2,
+      "region": "NORTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "DRY",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ui667hep2qpp",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 2,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uyc7c9bty85",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 2,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u5e2iyvmhi5",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 2,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uzur2bgg5vq",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 2,
+      "region": "SOUTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u0rcc4lu19rr",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 3,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u7vhg0iv9ksg",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 3,
+      "region": "NORTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "DRY",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uc278cdmukvb",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 3,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uw6y18ufqt5l",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 3,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uxiqe8nhx3c",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 3,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uqcol5m4l9qe",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 3,
+      "region": "SOUTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uv0025hvcyg",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 4,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uuoybdu6hag",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 4,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uz3mqa42p6yo",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 4,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ui0dxw00ul28",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 4,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u6rl1x7mexk6",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 4,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5ua842zjvn7kc",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 4,
+      "region": "SOUTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u42xo5ukj9hd",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 5,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u3iq0s3t1ghs",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 5,
+      "region": "NORTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "DRY",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ub7g0pscguyd",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 5,
+      "region": "NORTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u1ihufx8mmry",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 5,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uzbam1d9fqa",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 5,
+      "region": "SOUTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "WS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uajmp1bf98dq",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 5,
+      "region": "SOUTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ubfmoahrpsgh",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 7,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uf4y838kdxsa",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 7,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5utrmh9l5dgoe",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 7,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uq72l2xkqhze",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 7,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uwkniwihb0yk",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 7,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5u2jq79558eh",
+      "realisedDate": "2026-04-23",
+      "forecastId": "moekqp94okguae70w",
+      "leadDay": 7,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5utcdl11asfv",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 7,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5um4pdaitw9s",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 7,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uste1dsby59m",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 7,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uuisn31z4byn",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 7,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ujy8ccylieb",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 7,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ujy1nt3584o8",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeigu5jji7p8r6qgjg",
+      "leadDay": 7,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uougmjqbpm4f",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 1,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5us1zscx9wadi",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 1,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u1ulugvfqelj",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 1,
+      "region": "NORTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uvhfifrgvtjl",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 1,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uw2it8g4q36",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 1,
+      "region": "SOUTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uhcgt58s6lcs",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 1,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5ub1dmx3110yj",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 2,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5upcs7vbowa8r",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 2,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5usr5xsu68eia",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 2,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uqdcyopai83",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 2,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uur7w36mcf2",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 2,
+      "region": "SOUTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uxck1cjzsmr",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 2,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u0pfrrly9qkk",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 3,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5ufoe2usqhjj6",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 3,
+      "region": "NORTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u1qhpztv7ykt",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 3,
+      "region": "NORTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ugitdn33w9ce",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 3,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5usqqjg48xai",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 3,
+      "region": "SOUTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uwvy98lx89d",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 3,
+      "region": "SOUTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u9i02n6hqgnb",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 4,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u6b8c0fvzaov",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 4,
+      "region": "NORTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u1p128zoj7zd",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 4,
+      "region": "NORTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uit00u3hz9w",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 4,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uno4oq3d33sj",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 4,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uonrvy7bbzbh",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 4,
+      "region": "SOUTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uvwdyyjc3d4o",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 5,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u4p4x8mm9pvv",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 5,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5um9bnhq5n82e",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 5,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5urxoozgf333g",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 5,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ul1u48jstppa",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 5,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5urh0w2q53vz",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 5,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5u6lhtjwpyik",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 6,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ucxfhpz34rew",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 6,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5um5dfmon4a",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 6,
+      "region": "NORTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uomiqfp193p",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 6,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ucd3jyw6m9w",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 6,
+      "region": "SOUTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ur7whpwjj2jg",
+      "realisedDate": "2026-04-24",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 6,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u2qk7r0s5dmp",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 1,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uxzwwushko6",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 1,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5u435cudhl9ds",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 1,
+      "region": "NORTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ubntehoizype",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 1,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "WS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ug0o4leitlu",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 1,
+      "region": "SOUTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u0ijqw2fhgb57",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 1,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ujw3s5sa9qmd",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 2,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ubrgv115bvt",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 2,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u7lvmf9bzzmw",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 2,
+      "region": "NORTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u4xxzk3vffxs",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 2,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "SCT",
+      "realisedValue": "WS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u56cu8vzr9e5",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 2,
+      "region": "SOUTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5usdy3bcoa2h",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 2,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u3rzegw1pmgb",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 3,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u33jqxsxzylw",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 3,
+      "region": "NORTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ugytzyumwf7q",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 3,
+      "region": "NORTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5umv32odszff",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 3,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uw3rdrl15sc",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 3,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u359x7va3aql",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 3,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uoa9a0cs7zzg",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 4,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uqs3er106rn",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 4,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5ue7oe62dkei7",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 4,
+      "region": "NORTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uuwwspic2wtf",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 4,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5uv330gcyjuma",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 4,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5udvx5tuehrfp",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 4,
+      "region": "SOUTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uq7zsfhbym3",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 5,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u21tt9cw0vbx",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 5,
+      "region": "NORTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uizcklrn45s",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 5,
+      "region": "NORTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uyf1iu0g3m7j",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 5,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "WS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u1mf89wdi18v",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 5,
+      "region": "SOUTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ubyv5cyjzrru",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 5,
+      "region": "SOUTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ucy9y17n43m5",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 6,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ugxeb53va9pf",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 6,
+      "region": "NORTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ubkti8wkstgl",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 6,
+      "region": "NORTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5utan8t5o01r9",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 6,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5uot3318krkgj",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 6,
+      "region": "SOUTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ubnro2ln0dcc",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 6,
+      "region": "SOUTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u1k9yaxxtdflh",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 7,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5unpe1nthu2ke",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 7,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5utw6ofohm7uc",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 7,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ugguzmr5mxjt",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 7,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5uhvyiwvq057a",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 7,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uztyjdfqwsb",
+      "realisedDate": "2026-04-25",
+      "forecastId": "moekpyjbmbaqyysul",
+      "leadDay": 7,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5utr7i56ipmlc",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 2,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "ISOL",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u2fqjlfp66jz",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 2,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uczm08xbujhg",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 2,
+      "region": "NORTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5un0r2xoorx9q",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 2,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "ISOL",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ut0tmjif40me",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 2,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5ut513dbfljr",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 2,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5ufolff882hdw",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 3,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "ISOL",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uxnrs1lh2ffl",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 3,
+      "region": "NORTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u6f0fwzfu0ti",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 3,
+      "region": "NORTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uyuorcfinoc",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 3,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "ISOL",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u3ps342e6mgk",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 3,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5u3i0dmvuvkxx",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 3,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5ugfuk98dm1b6",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 4,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u5bbeamn9id",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 4,
+      "region": "NORTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uicbrjz2cqq",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 4,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uavjp5a4zgip",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 4,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "ISOL",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u6z4yeuxxhk",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 4,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5um011h35px9a",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 4,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5urvq9gg8tk6s",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 5,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "ISOL",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uv167um8kbcp",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 5,
+      "region": "NORTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uis9athmbovk",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 5,
+      "region": "NORTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uzi75p0i5adp",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 5,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "ISOL",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5up694udevojm",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 5,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5uc72k2sf9qrh",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 5,
+      "region": "SOUTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "DRY",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5uxea3n9y7jkf",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 6,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "ISOL",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5u8viq70zwdi7",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 6,
+      "region": "NORTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u29ffs2afmxo",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 6,
+      "region": "NORTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uvz8l0aw0pl",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 6,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uj7enbakkhd",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 6,
+      "region": "SOUTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "WS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u4yq459xtwoe",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 6,
+      "region": "SOUTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "DRY",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5udilci8198uu",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 7,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uy9jo2efez7i",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 7,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5upmmt0ogk4g",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 7,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uaosts51ztit",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 7,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uwldki0qujbs",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 7,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5ueoa2gdir76k",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moekpkzj0r0mh0ilq",
+      "leadDay": 7,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u112fhncek3d",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 1,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "ISOL",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uhssyb24d7n",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 1,
+      "region": "NORTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5unlx5il7dts",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 1,
+      "region": "NORTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uu6s8q1oyvn",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 1,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "ISOL",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uwf4g9epjsds",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 1,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5uiolbn5tse5",
+      "realisedDate": "2026-04-26",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 1,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5unz9rdl9c5rh",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 3,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ujdtyxcwahym",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 3,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uvllwoddzvuf",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 3,
+      "region": "NORTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uz6v011wy7w",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 3,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "WS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u1d3e5epjcfh",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 3,
+      "region": "SOUTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uz7vwqnxpkhk",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 3,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uaxbi1tdadu9",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 4,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u2krp1wgfcob",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 4,
+      "region": "NORTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u6mghudabv77",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 4,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "DRY",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uukczkxdjaj",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 4,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5uhyfhbt54gz8",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 4,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uvfaazniv0xj",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 4,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5umz168ys3kx",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 5,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uj4s2elruv5m",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 5,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5ueavxxa7t69t",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 5,
+      "region": "NORTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "DRY",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5usr2c5vght2i",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 5,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5u5pzb1j5n67a",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 5,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uoey0shbi23",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 5,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uflgtpdox2nk",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 6,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ukl2c8ycnlus",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 6,
+      "region": "NORTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ucatriyu0fj5",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 6,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u64zbwaq0o2",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 6,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "WS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uif4dvgwe32p",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 6,
+      "region": "SOUTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u0nclzrb7vvqo",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 6,
+      "region": "SOUTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u7g9kcyrbf54",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 7,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uzyniw2huqz",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 7,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5ulaiav5cvxx8",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 7,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "DRY",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u3ly1n6c2u2r",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 7,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5u9nqpd0ea27t",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 7,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u8i408i7uugt",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moekp4kw8pm3gqlrx",
+      "leadDay": 7,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5us0278yf6zok",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 2,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u8qlq7p2pzmg",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 2,
+      "region": "NORTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u3vr45i0lx3r",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 2,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "DRY",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u9ceh70p1cjf",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 2,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5ugc7jlzr03lg",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 2,
+      "region": "SOUTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u5nrqnh67zkk",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 2,
+      "region": "SOUTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5utmrgzsphxc",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 1,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uybohsrmzsco",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 1,
+      "region": "NORTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u7e1put7uhwq",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 1,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "DRY",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5urjqyrqqnjc",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 1,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5uxh5xg6w0flq",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 1,
+      "region": "SOUTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u7mo3vscrcee",
+      "realisedDate": "2026-04-27",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 1,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uuw2rgl77vq",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 4,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u7bzdzdmgjtb",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 4,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u4qqkbcii65r",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 4,
+      "region": "NORTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "WS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5ujcxvm7aa2fq",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 4,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ukp9rjc2l1o",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 4,
+      "region": "SOUTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uyebxx5r458c",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 4,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "WS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u1w97ajz503h",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 5,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ucwnzdd5li4",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 5,
+      "region": "NORTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "ISOL",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5ubtdaku7co95",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 5,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5ubel4mehhk2d",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 5,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5upfpd8p0v4n",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 5,
+      "region": "SOUTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u9bu3mk9hqwl",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 5,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "WS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uo51hvjp8lpg",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 6,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5utkh9g4iiq2",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 6,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u6t7f1dsciqg",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 6,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5ue44skmi0azm",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 6,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uqnmkf21h9x",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 6,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5u4rfv5667qir",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 6,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5us1rooibwgr",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 7,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uv45n7itmlx9",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 7,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uuie6ek1cmka",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 7,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5uai5fwz5pmbr",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 7,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uwwg89gjmq2o",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 7,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5ur8zskn20ann",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moekoi6pt802ybx7m",
+      "leadDay": 7,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5u8kb1ood86mu",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 3,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u4wv8ewj5o5k",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 3,
+      "region": "NORTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "ISOL",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uif6kfags53",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 3,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5u0rytcv1bny4j",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 3,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u0boidh5dxgnq",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 3,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5utoiawl4yi1i",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 3,
+      "region": "SOUTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "WS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5upyexj2bxxci",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 2,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ugzmmemlat7c",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 2,
+      "region": "NORTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u8yote8kwmjo",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 2,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5u1srxbv1ubdv",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 2,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5upa17mkw3spk",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 2,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u0l0kdl0yw7e",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 2,
+      "region": "SOUTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "WS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5upgdttxy8kz",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 1,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5usu6gf4vbg1j",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 1,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "ISOL",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ucse1py7lw4",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 1,
+      "region": "NORTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "WS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uyeg3jy3phb",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 1,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ucvtt1mmnqm",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 1,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uy2xp5meyn8q",
+      "realisedDate": "2026-04-28",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 1,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5u2vm7qprgeph",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 5,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uzhapipe1jse",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 5,
+      "region": "NORTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5unurwcdvnmp",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 5,
+      "region": "NORTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uugukbm0y42s",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 5,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5umeb4gp68gj",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 5,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ulmmwz75zdeq",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 5,
+      "region": "SOUTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uwav56f12pn",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 6,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uqja7to72yqi",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 6,
+      "region": "NORTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5um2yz6bviu2",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 6,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5upnt24v0cov",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 6,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5u0z98kl4rbrp",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 6,
+      "region": "SOUTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "ISOL",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uqh9giyzuf89",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 6,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5upmru8qmc9h",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 7,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uy2czmhwqi1a",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 7,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u4auk81pwmju",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 7,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5utbzb19st56",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 7,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "WS",
+      "accuracy": 0
+    },
+    {
+      "id": "moexmq5u1gh0yh8vlek",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 7,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u0ph9363htg9",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeknuagq5tryvxss",
+      "leadDay": 7,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u3b4ux2t8u1j",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 4,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5umojj9z3w28f",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 4,
+      "region": "NORTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ub7g62pkmhok",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 4,
+      "region": "NORTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "FWS",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5u2mtg4aue2fo",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 4,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "WS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5usiqa7fqgf0d",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 4,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "ISOL",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uavo37prutp",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 4,
+      "region": "SOUTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5unlh564xn4o",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 3,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u2vx91stmwb8",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 3,
+      "region": "NORTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5utbz0t71tls",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 3,
+      "region": "NORTH WEST",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u09u84lxpo7kl",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 3,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5u3v0s7wknfuw",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 3,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "ISOL",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uy9pcwxgclea",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 3,
+      "region": "SOUTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uvdnbufs3j0p",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 2,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uvudzprt6em",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 2,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uq8tgiux34rj",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 2,
+      "region": "NORTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5us2w8gst7hes",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 2,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "WS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u838vk9hi1j",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 2,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "ISOL",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uzd3stuwifa",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 2,
+      "region": "SOUTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u9azaclf3nwf",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeqd5jsivg2os478",
+      "leadDay": 1,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ualjp4051n2j",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeqd5jsivg2os478",
+      "leadDay": 1,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uvzpo7is8tra",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeqd5jsivg2os478",
+      "leadDay": 1,
+      "region": "NORTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ueuvb642e76",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeqd5jsivg2os478",
+      "leadDay": 1,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "WS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5u6nukx5jbxcq",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeqd5jsivg2os478",
+      "leadDay": 1,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uw3nuw471eje",
+      "realisedDate": "2026-04-29",
+      "forecastId": "moeqd5jsivg2os478",
+      "leadDay": 1,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5umhbzs9y1w4s",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 6,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5umr5e8sj259j",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 6,
+      "region": "NORTH EAST",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u92azimtojgq",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 6,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uz5sj2mf1c4i",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 6,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uzc3at6hvzx",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 6,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ug02j660sd36",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeigu5jexatzhmrqb9",
+      "leadDay": 6,
+      "region": "SOUTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "ISOL",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uzaqkz6ew53",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 7,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uomiclqew52o",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 7,
+      "region": "NORTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "FWS",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5uycbx13at2bk",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 7,
+      "region": "NORTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uqvs2buv0ips",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 7,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uup8488jkd7",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 7,
+      "region": "SOUTH EAST",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5ud40cau6x6ui",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeknc3kbxaxlzfd9",
+      "leadDay": 7,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uy6jis44kv9",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 5,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5ukt2jjaluhaa",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 5,
+      "region": "NORTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uol62a7kxd79",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 5,
+      "region": "NORTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uucyzvriccud",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 5,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ukyubg9xmcxr",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 5,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5utrdevw2jrkq",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeomyif731aw6a1f",
+      "leadDay": 5,
+      "region": "SOUTH WEST",
+      "forecastValue": "ISOL",
+      "realisedValue": "ISOL",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5unx7yroj25u",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 4,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uywhi7v42vvh",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 4,
+      "region": "NORTH EAST",
+      "forecastValue": "SCT",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u8hxdlgvnpi6",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 4,
+      "region": "NORTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5u6qg6tf244c3",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 4,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "DRY",
+      "realisedValue": "SCT",
+      "accuracy": 50
+    },
+    {
+      "id": "moexmq5uno7zvj198e",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 4,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ul8e4eqjxs1",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeoo6gd060xlnn4g",
+      "leadDay": 4,
+      "region": "SOUTH WEST",
+      "forecastValue": "WS",
+      "realisedValue": "ISOL",
+      "accuracy": 25
+    },
+    {
+      "id": "moexmq5u5li8e487vaq",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 3,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ui88yfz91z5o",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 3,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uyfu2btk54zf",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 3,
+      "region": "NORTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uy8rsik0smi9",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 3,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "FWS",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5u27nal0udr9j",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 3,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uckb83xltxx",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeot2cz3ccdb4fhm",
+      "leadDay": 3,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5uu0vk91nf8mb",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeqd5jsivg2os478",
+      "leadDay": 2,
+      "region": "NORTH CENTRAL",
+      "forecastValue": "WS",
+      "realisedValue": "FWS",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ucc8ywhhw7st",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeqd5jsivg2os478",
+      "leadDay": 2,
+      "region": "NORTH EAST",
+      "forecastValue": "FWS",
+      "realisedValue": "FWS",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5uybqac9kv17s",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeqd5jsivg2os478",
+      "leadDay": 2,
+      "region": "NORTH WEST",
+      "forecastValue": "SCT",
+      "realisedValue": "SCT",
+      "accuracy": 100
+    },
+    {
+      "id": "moexmq5urwz8tn0pjqg",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeqd5jsivg2os478",
+      "leadDay": 2,
+      "region": "SOUTH CENTRAL",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ukbnzu4fy6ap",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeqd5jsivg2os478",
+      "leadDay": 2,
+      "region": "SOUTH EAST",
+      "forecastValue": "ISOL",
+      "realisedValue": "SCT",
+      "accuracy": 75
+    },
+    {
+      "id": "moexmq5ukl9oved96n",
+      "realisedDate": "2026-04-30",
+      "forecastId": "moeqd5jsivg2os478",
+      "leadDay": 2,
+      "region": "SOUTH WEST",
+      "forecastValue": "DRY",
+      "realisedValue": "ISOL",
+      "accuracy": 75
+    }
+  ],
+  "settings": {
+    "theme": "dark",
+    "language": "en",
+    "autoVerify": true,
+    "autoBackup": true,
+    "dateFormat": "DD/MM/YYYY",
+    "matchingWeights": {
+      "0": 100,
+      "1": 75,
+      "2": 50,
+      "3": 25,
+      "4": 0
+    },
+    "appBackground": "default"
+  },
+  "users": [
+    {
+      "id": "moeip6vks87cjjtsv",
+      "name": "42492",
+      "role": "admin",
+      "password": "42492"
+    },
+    {
+      "id": "moejbp15vzwm4m32u",
+      "name": "Kamal",
+      "role": "admin",
+      "password": "Kamal@007"
+    }
+  ],
+  "exportDate": "2026-04-25T22:53:58.977Z"
+}

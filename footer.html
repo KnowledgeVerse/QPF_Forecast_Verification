@@ -1,0 +1,100 @@
+<style>
+  .advanced-footer {
+    --bg-dark: #0f172a;
+    --accent: #fbbf24;
+    --text-main: #f8fafc;
+    --text-dim: #94a3b8;
+
+    background: var(--bg-dark);
+    color: var(--text-main);
+    font-family: "Inter", "Segoe UI", Roboto, sans-serif;
+    padding: 30px 20px;
+    text-align: center;
+    background: linear-gradient(
+      135deg,
+      rgba(15, 23, 42, 0.6) 0%,
+      rgba(30, 41, 59, 0.8) 100%
+    );
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  }
+
+  .footer-container {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  /* Section 2: Analysis & Development */
+  .analysis-section {
+    margin-bottom: 40px;
+  }
+
+  .analysis-label {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+  }
+
+  .analysis-content {
+    font-size: 1.1rem;
+    line-height: 1.8;
+  }
+
+  /* Name Highlighting */
+  .highlight-name {
+    color: #f59e0b;
+    font-weight: 700;
+    font-size: 1.3rem;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    text-decoration: none !important;
+    border-bottom: none !important;
+    margin-left: 5px;
+  }
+
+  /* Section 3: Data Source Footer */
+  .data-source-bar {
+    font-size: 0.9rem;
+    color: var(--text-dim);
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+    padding-top: 25px;
+    margin-top: 20px;
+  }
+
+  .source-highlight {
+    color: var(--text-main);
+    font-weight: 600;
+  }
+
+  @media (max-width: 600px) {
+    .highlight-name {
+      font-size: 1.1rem;
+    }
+  }
+</style>
+
+<footer class="advanced-footer">
+  <div class="footer-container">
+    <div class="analysis-section">
+      <span class="analysis-label">विश्लेषण एवं विकास</span>
+      <div class="analysis-content">
+        तैयार किया गया: <span class="highlight-name">Lal Kamal</span><br />
+        <span style="color: var(--text-dim)"
+          >Meteorological Centre, Patna (IMD)</span
+        >
+      </div>
+    </div>
+
+    <div class="data-source-bar">
+      डेटा स्रोत:
+      <span class="source-highlight">India Meteorological Department (IMD)</span
+      ><br />
+      &copy; 2026 | All Rights Reserved
+    </div>
+  </div>
+</footer>
