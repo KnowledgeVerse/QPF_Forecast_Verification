@@ -14,6 +14,7 @@ import {
   ClipboardCheck,
   BarChart3,
   Grid3X3,
+  Database,
 } from "lucide-react";
 import { useForecastStore } from "@/hooks/useForecastStore";
 import { formatDate, getToday } from "@/lib/utils";
@@ -42,6 +43,10 @@ const pageConfig: Record<string, { title: string; icon: React.ReactNode }> = {
   "/contingency": {
     title: "Contingency Analysis",
     icon: <Grid3X3 size={24} className="text-[#34d399] animate-pulse" />,
+  },
+  "/database": {
+    title: "Database Sync",
+    icon: <Database size={24} className="text-[#3b82f6] animate-bounce" />,
   },
   "/settings": {
     title: "Settings",

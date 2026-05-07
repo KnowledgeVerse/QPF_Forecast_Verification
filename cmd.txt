@@ -9,3 +9,12 @@ Now ( VITE vX.X.X  ready in XXXms
   ➜  press h to show help) 
 
 npm run build
+
+git status
+
+git add .
+
+git commit -m "Added new features and updated readme"
+
+git push origin main
+

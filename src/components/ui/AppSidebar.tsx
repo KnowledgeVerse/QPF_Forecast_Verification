@@ -16,6 +16,7 @@ import {
   Moon,
   Droplets,
   Upload,
+  Database,
 } from "lucide-react";
 import { useForecastStore } from "@/hooks/useForecastStore";
 import { useState } from "react";
@@ -121,7 +122,10 @@ const navSections = [
   },
   {
     title: "General",
-    items: [{ to: "/settings", label: "Settings", icon: Settings }],
+    items: [
+      { to: "/database", label: "Database Sync", icon: Database },
+      { to: "/settings", label: "Settings", icon: Settings },
+    ],
   },
 ];
 

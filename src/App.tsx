@@ -6,6 +6,7 @@ import RealisedEntryPage from "@/pages/RealisedEntry";
 import VerificationReportPage from "@/pages/VerificationReport";
 import AnalyticsChartsPage from "@/pages/AnalyticsCharts";
 import ContingencyAnalysisPage from "@/pages/ContingencyAnalysis";
+import DatabasePage from "@/pages/DatabasePage";
 import SettingsPage from "@/pages/SettingsPage";
 import LoginPage from "@/pages/LoginPage";
 import { ForecastProvider } from "@/hooks/useForecastStore";
@@ -71,6 +72,7 @@ function App() {
                     path="/contingency"
                     element={<ContingencyAnalysisPage />}
                   />
+                  <Route path="/database" element={<DatabasePage />} />
                   <Route path="/settings" element={<SettingsPage />} />
                   <Route path="*" element={<Navigate to="/" replace />} />
                 </Routes>

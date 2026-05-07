@@ -58,6 +58,7 @@ interface ForecastStore {
   exportData: () => string;
   importData: (json: string) => boolean;
   clearAllData: () => void;
+  syncAllToDatabase: () => Promise<void>;
 }
 
 const defaultSettings: AppSettings = {
@@ -89,6 +90,23 @@ function loadFromStorage<T>(key: string, fallback: T): T {
 
 function saveToStorage(key: string, value: unknown) {
   localStorage.setItem(key, JSON.stringify(value));
+}
+
+// नया MongoDB Save फंक्शन (बैकएंड को डेटा भेजने के लिए)
+async function saveToDatabase(type: string, value: unknown) {
+  try {
+    await fetch("http://localhost:5000/api/save-data", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        type: type,
+        date: new Date().toISOString(),
+        data: value,
+      }),
+    });
+  } catch (error) {
+    console.error("MongoDB Save Error:", error);
+  }
 }
 
 function generateId(): string {
@@ -188,10 +206,12 @@ export function ForecastProvider({ children }: { children: React.ReactNode }) {
 
   useEffect(() => {
     saveToStorage("rfad_forecasts", forecasts);
+    if (forecasts.length > 0) saveToDatabase("Forecast_Data", forecasts);
   }, [forecasts]);
 
   useEffect(() => {
     saveToStorage("rfad_realised", realised);
+    if (realised.length > 0) saveToDatabase("Realised_Data", realised);
   }, [realised]);
 
   useEffect(() => {
@@ -471,6 +491,23 @@ export function ForecastProvider({ children }: { children: React.ReactNode }) {
     setVerifications([]);
   }, []);
 
+  const syncAllToDatabase = useCallback(async () => {
+    addToast("Syncing data to MongoDB...", "info");
+    try {
+      if (forecasts.length > 0)
+        await saveToDatabase("Forecast_Data", forecasts);
+      if (realised.length > 0) await saveToDatabase("Realised_Data", realised);
+      if (verifications.length > 0)
+        await saveToDatabase("Verification_Data", verifications);
+      await saveToDatabase("Settings_Data", settings);
+      await saveToDatabase("Users_Data", users);
+      addToast("All data successfully synced to MongoDB! ✅", "success");
+    } catch (error) {
+      addToast("Failed to sync data to MongoDB ❌", "error");
+      console.error(error);
+    }
+  }, [forecasts, realised, verifications, settings, users, addToast]);
+
   return (
     <ForecastContext.Provider
       value={{
@@ -502,6 +539,7 @@ export function ForecastProvider({ children }: { children: React.ReactNode }) {
         exportData,
         importData,
         clearAllData,
+        syncAllToDatabase,
       }}
     >
       {children}
