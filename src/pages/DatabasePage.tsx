@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import {
   Database,
   RefreshCw,
@@ -46,7 +46,7 @@ export default function DatabasePage() {
   // Auto Sync Effect (हर 5 मिनट में)
   useEffect(() => {
     localStorage.setItem("hydromet_auto_sync", autoSync.toString());
-    let interval: NodeJS.Timeout;
+    let interval: ReturnType<typeof setInterval>;
     if (autoSync) {
       interval = setInterval(
         () => {

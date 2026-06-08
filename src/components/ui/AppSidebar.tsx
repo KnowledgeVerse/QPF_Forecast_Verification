@@ -17,7 +17,9 @@ import {
   Droplets,
   Upload,
   Database,
+  Map,
 } from "lucide-react";
+
 import { useForecastStore } from "@/hooks/useForecastStore";
 import { useState } from "react";
 
@@ -123,6 +125,7 @@ const navSections = [
   {
     title: "General",
     items: [
+      { to: "/map-test", label: "Interactive Map", icon: Map }, // <-- YEH NAYI LINE ADD KIJIYE
       { to: "/database", label: "Database Sync", icon: Database },
       { to: "/settings", label: "Settings", icon: Settings },
     ],

@@ -3,10 +3,27 @@ import { Save, Upload } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { useQPFStore } from "@/hooks/useQPFStore";
-import { QPF_BASINS, type RealisedRainfallEntry } from "@/types";
+import type { RealisedRainfallEntry } from "@/types";
 import { getToday } from "@/lib/utils";
 import * as XLSX from "xlsx";
 import { normalizeQPFValue } from "@/lib/qpfParser";
+
+const QPF_BASINS = [
+  "Gandak Nepal",
+  "Kosi Nepal",
+  "Burhi Gandak Nepal",
+  "Bagmati Adhwara Nepal",
+  "Mahananda Nepal",
+  "Gandak",
+  "Bagmati Adhwara",
+  "Kosi",
+  "Mahananda",
+  "Sone",
+  "Punpun/Dhab Nadi",
+  "Kiul",
+  "Chandan",
+  "North Koel",
+];
 
 export default function QPFRealisedEntryPage() {
   const { updateRealised, realisedEntries, bulkImportFromCSV } = useQPFStore();

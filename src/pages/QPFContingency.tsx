@@ -123,17 +123,22 @@ const QPFContingency = () => {
   const [selectedSubBasin, setSelectedSubBasin] =
     useState<string>("All Basins");
 
-  // Extract unique sub-basins from data
-  const subBasins = useMemo(() => {
-    const basins = new Set<string>();
-    (qpfSessions as any[])?.forEach((session) => {
-      session.forecasts?.forEach((f: any) => {
-        if (f.subBasin) basins.add(f.subBasin);
-      });
-    });
-    realisedEntries?.forEach((r) => r.subBasin && basins.add(r.subBasin));
-    return Array.from(basins).sort();
-  }, [qpfSessions, realisedEntries]);
+  const subBasins = [
+    "Gandak Nepal",
+    "Kosi Nepal",
+    "Burhi Gandak Nepal",
+    "Bagmati Adhwara Nepal",
+    "Mahananda Nepal",
+    "Gandak",
+    "Bagmati Adhwara",
+    "Kosi",
+    "Mahananda",
+    "Sone",
+    "Punpun/Dhab Nadi",
+    "Kiul",
+    "Chandan",
+    "North Koel",
+  ];
 
   // --- File Upload Logic (from QPFUploadData) ---
   const safeQPF = (val: any) => {

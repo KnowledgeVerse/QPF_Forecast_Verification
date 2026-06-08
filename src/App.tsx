@@ -11,6 +11,8 @@ import SettingsPage from "@/pages/SettingsPage";
 import LoginPage from "@/pages/LoginPage";
 import { ForecastProvider } from "@/hooks/useForecastStore";
 import { QPFProvider } from "@/hooks/useQPFStore";
+import MapTest from "./pages/MapTest";
+
 import QPFForecastEntryPage from "@/pages/QPFForecastEntry";
 import QPFRealisedEntryPage from "@/pages/QPFRealisedEntry";
 import QPFVerificationReport from "@/pages/QPFVerificationReport";
@@ -39,6 +41,8 @@ function App() {
                     path="/swfc/Rainfall_Forecast_Verification/realised"
                     element={<RealisedEntryPage />}
                   />
+                  <Route path="/map-test" element={<MapTest />} />
+
                   <Route
                     path="/swfc/QPF_Forecast_Entry"
                     element={<QPFForecastEntryPage />}

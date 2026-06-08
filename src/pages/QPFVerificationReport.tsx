@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { useQPFStore } from "@/hooks/useQPFStore";
 import { buildVerificationData } from "@/lib/qpfVerification";
-import { QPF_CATEGORIES, QPF_BASINS } from "@/types";
+import { QPF_CATEGORIES } from "@/types";
 import type { QPFRow } from "@/lib/qpfParser";
 import { normalizeQPFValue } from "@/lib/qpfParser";
 import type { RealisedRainfallEntry, QPFForecastEntry } from "@/types";
@@ -75,6 +75,23 @@ const parseDate = (dateStr: any): string => {
   if (!isNaN(d.getTime())) return d.toISOString().split("T")[0];
   return str;
 };
+
+const QPF_BASINS = [
+  "Gandak Nepal",
+  "Kosi Nepal",
+  "Burhi Gandak Nepal",
+  "Bagmati Adhwara Nepal",
+  "Mahananda Nepal",
+  "Gandak",
+  "Bagmati Adhwara",
+  "Kosi",
+  "Mahananda",
+  "Sone",
+  "Punpun/Dhab Nadi",
+  "Kiul",
+  "Chandan",
+  "North Koel",
+];
 
 export default function QPFVerificationReport() {
   const { qpfSessions, realisedEntries, bulkImportFromCSV } = useQPFStore();
